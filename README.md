@@ -6,6 +6,6 @@ qemu是什么，简单来说它是一个虚拟机的管理器，类似Virtualbox
 具体可参考
 
 ```html
->http://liushy.com/2017/04/29/libvirt-qemu/
+> http://liushy.com/2017/04/29/libvirt-qemu/
 
 ```
